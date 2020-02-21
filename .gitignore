@@ -1,0 +1,4 @@
+./config/grafana/var/lib/grafana/
+./config/grafana/var/log/
+./config/prometheus/prometheus.yml
+./config/alertmanager/config.yml
